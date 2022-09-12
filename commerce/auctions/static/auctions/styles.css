@@ -1,0 +1,15 @@
+body {
+    padding: 10px;
+}
+
+p {
+    margin: 2px;
+}
+
+button {
+    margin: 10px;
+}
+
+.nav-link {
+    display: inline-block;
+}
