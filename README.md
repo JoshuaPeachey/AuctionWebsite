@@ -4,7 +4,7 @@ This is one of the projects I built while studying Harvard's online CS50 Web dev
 https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript
 
 ## Website features
-Features
+Features:
 Users can post their own items to auction off to other users.
 Users can comment on items/ ask questions.
 Users can "watch" an item.
